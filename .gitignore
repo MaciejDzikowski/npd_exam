@@ -1,6 +1,8 @@
 # Directories
 /venv
-
+/.idea
+/.ipynb_checkpoints
 
 # Files
 *.xls*
+*.XLS*
